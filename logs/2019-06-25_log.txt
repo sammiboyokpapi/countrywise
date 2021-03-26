@@ -1,0 +1,87 @@
+{"date":"2019-06-25T05:59:50.411Z","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25T06:00:10.499Z","severity":"ERROR","module":"login","code":"001","message":"invalid login credential","user":"","priviledge":""}
+{"date":"2019-06-25T06:00:23.817Z","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25T06:00:39.781Z","severity":"INFO","module":"search","code":"300","message":"Searched for query {\"searchall\":\"\",\"criteria1\":\"ALLRECORDS\",\"startDate\":\"\",\"endDate\":\"\"}","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25T06:02:01.272Z","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25T06:02:03.548Z","severity":"INFO","module":"search","code":"300","message":"Searched for query {\"searchall\":\"\",\"criteria1\":\"ALLRECORDS\",\"startDate\":\"\",\"endDate\":\"\"}","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25T06:02:33.583Z","severity":"ERROR","module":"search","code":"101","message":"Failed to perform query : Error: getaddrinfo ENOTFOUND search-samtest-noiakk4d5co5heeythu7cii5aq.eu-west-1.es.amazonaws.com search-samtest-noiakk4d5co5heeythu7cii5aq.eu-west-1.es.amazonaws.com:443","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25T06:03:21.797Z","severity":"INFO","module":"search","code":"300","message":"Searched for query {\"searchall\":\"\",\"criteria1\":\"ALLRECORDS\",\"startDate\":\"\",\"endDate\":\"\"}","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25T06:03:51.802Z","severity":"ERROR","module":"search","code":"101","message":"Failed to perform query : Error: getaddrinfo ENOTFOUND search-samtest-noiakk4d5co5heeythu7cii5aq.eu-west-1.es.amazonaws.com search-samtest-noiakk4d5co5heeythu7cii5aq.eu-west-1.es.amazonaws.com:443","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25T06:05:37.863Z","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25T06:07:13.920Z","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25T06:07:25.468Z","severity":"SUCCESS","module":"Merchant","code":"205","message":"Successfully generated Additional Terminals :6, To merchant : 2ISWM6217324821","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25T06:11:44.840Z","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25T06:14:30.979Z","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25T06:14:53.193Z","severity":"INFO","module":"search","code":"300","message":"Searched for query {\"searchall\":\"\",\"criteria1\":\"ALLRECORDS\",\"startDate\":\"\",\"endDate\":\"\"}","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25T06:15:11.757Z","severity":"SUCCESS","module":"Merchant","code":"205","message":"Successfully generated Additional Terminals :7, To merchant : 2ISWM4088664479","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25T06:16:54.125Z","severity":"SUCCESS","module":"Merchant","code":"205","message":"Successfully Stored  Newly Generated Terminals Via Batch Upload ","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25T06:17:00.113Z","severity":"SUCCESS","module":"Merchant","code":"203","message":"Successfully generated Batch Merchant Terminals Report  :12","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25T06:29:45.840Z","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25T06:31:02.036Z","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25T06:31:14.271Z","severity":"SUCCESS","module":"User","code":"208","message":"Successfully Created New User, Username :sammidsdf","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25T08:35:13.578Z","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25T09:23:39.148Z","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25T09:31:19.724Z","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25T09:34:35.914Z","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25T10:08:48.609Z","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25T10:12:57.503Z","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25T10:13:28.753Z","severity":"SUCCESS","module":"logout","code":"240","message":"Successfully Logged Out  : sammi","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25T10:13:32.579Z","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"tunde","priviledge":"kyc"}
+{"date":"2019-06-25T10:39:58.288Z","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"tunde","priviledge":"kyc"}
+{"date":"2019-06-25T11:09:39.770Z","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"tunde","priviledge":"kyc"}
+{"date":"2019-06-25T11:21:44.130Z","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25T11:26:39.753Z","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"tunde","priviledge":"kyc"}
+{"date":"2019-06-25T11:34:38.373Z","severity":"SUCCESS","module":"logout","code":"240","message":"Successfully Logged Out  : tunde","user":"tunde","priviledge":"kyc"}
+{"date":"2019-06-25T11:34:40.372Z","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25T14:40:42.607Z","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25T16:04:09.687Z","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25T16:04:58.140Z","severity":"ERROR","module":"login","code":"001","message":"invalid login credential","user":"","priviledge":""}
+{"date":"2019-06-25T16:06:48.165Z","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25T16:10:50.223Z","severity":"ERROR","module":"login","code":"001","message":"invalid login credential","user":"","priviledge":""}
+{"date":"2019-06-25T16:15:30.140Z","severity":"ERROR","module":"login","code":"001","message":"invalid login credential","user":"","priviledge":""}
+{"date":"2019-06-25T16:16:35.215Z","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25T16:17:11.489Z","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25T16:17:31.325Z","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25T16:18:23.164Z","severity":"SUCCESS","module":"logout","code":"240","message":"Successfully Logged Out  : sammi","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25T16:18:28.993Z","severity":"ERROR","module":"login","code":"001","message":"invalid login credential","user":"","priviledge":""}
+{"date":"2019-06-25T16:19:13.830Z","severity":"ERROR","module":"login","code":"001","message":"invalid login credential","user":"","priviledge":""}
+{"date":"2019-06-25T16:19:59.517Z","severity":"ERROR","module":"login","code":"001","message":"invalid login credential","user":"","priviledge":""}
+{"date":"2019-06-25 5:21:32","severity":"ERROR","module":"login","code":"001","message":"invalid login credential","user":"","priviledge":""}
+{"date":"2019-06-25 5:21:32","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25 5:32:43","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25 5:35:34","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25 5:36:26","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25 5:39:25","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25 5:42:55","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25 5:43:48","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25 5:44:12","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25 5:46:35","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25 5:47:18","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25 5:52:03","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25 5:54:31","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25 5:56:24","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25 6:01:07","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25 6:03:03","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25 6:08:28","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25 6:10:27","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25 6:11:32","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25 6:12:13","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25 6:12:13","severity":"ERROR","module":"search","code":"101","message":"Failed to perform query : ","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25 6:15:38","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25 6:16:42","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25 6:18:44","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25 6:18:44","severity":"SUCCESS","module":"search","code":"201","message":"Successfully performed query : [{\"query_string\":{\"query\":\"**\"}}]","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25 6:22:27","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25 6:23:19","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25 6:23:19","severity":"SUCCESS","module":"search","code":"201","message":"Successfully performed query : [{\"query_string\":{\"query\":\"**\"}}]","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25 6:23:19","severity":"SUCCESS","module":"search","code":"201","message":"Successfully performed query : [{\"query_string\":{\"query\":\"**\"}}]","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25 6:23:19","severity":"SUCCESS","module":"Merchant","code":"205","message":"Successfully generated Additional Terminals :7, To merchant : 2ISWM1556230753","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25 6:23:19","severity":"SUCCESS","module":"Terminal","code":"203","message":"Successfully generated Batch Merchant Terminals Report  :7","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25 8:51:21","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25 8:51:21","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25 8:51:21","severity":"SUCCESS","module":"search","code":"201","message":"Successfully performed query : [{\"query_string\":{\"query\":\"**\"}}]","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25 8:51:21","severity":"SUCCESS","module":"search","code":"201","message":"Successfully performed query : [{\"query_string\":{\"query\":\"**\"}}]","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25 8:51:21","severity":"SUCCESS","module":"search","code":"201","message":"Successfully performed query : [{\"query_string\":{\"query\":\"*2ISW1158*\"}}]","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25 8:51:21","severity":"SUCCESS","module":"search","code":"201","message":"Successfully performed query : [{\"query_string\":{\"query\":\"*2ISW1158*\"}}]","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25 8:51:21","severity":"SUCCESS","module":"search","code":"201","message":"Successfully performed query : [{\"query_string\":{\"query\":\"**\"}}]","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-25 8:51:21","severity":"SUCCESS","module":"search","code":"201","message":"Successfully performed query : [{\"query_string\":{\"query\":\"**\"}}]","user":"sammi","priviledge":"sadmin"}

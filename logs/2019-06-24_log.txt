@@ -1,0 +1,12 @@
+{"date":"2019-06-24T17:05:43.076Z","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-24T17:14:42.362Z","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-24T17:15:11.299Z","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-24T17:15:23.528Z","severity":"INFO","module":"search","code":"300","message":"Searched for query {\"searchall\":\"122\",\"criteria1\":\"ALLRECORDS\",\"startDate\":\"\",\"endDate\":\"\"}","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-24T17:20:08.299Z","severity":"INFO","module":"search","code":"300","message":"Searched for query {\"searchall\":\"\",\"criteria1\":\"ALLRECORDS\",\"startDate\":\"\",\"endDate\":\"\"}","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-24T17:38:39.576Z","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-24T17:43:46.664Z","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-24T17:44:06.906Z","severity":"SUCCESS","module":"Merchant","code":"205","message":"Successfully Stored  Newly Generated Terminals Via Batch Upload ","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-24T17:44:47.269Z","severity":"SUCCESS","module":"Merchant","code":"203","message":"Successfully generated Batch Merchant Terminals Report  :12","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-24T17:45:20.926Z","severity":"SUCCESS","module":"Merchant","code":"203","message":"Successfully generated Batch Merchant Terminals Report  :12","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-24T17:45:49.448Z","severity":"SUCCESS","module":"Merchant","code":"202","message":"Successfully generated Single Merchant, Terminals :18","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-06-24T17:45:55.046Z","severity":"SUCCESS","module":"Merchant","code":"203","message":"Successfully generated Batch Merchant Terminals Report  :18","user":"sammi","priviledge":"sadmin"}

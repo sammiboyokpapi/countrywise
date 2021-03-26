@@ -1,0 +1,10 @@
+{"date":"2019-07-11 06:09:05","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-07-11 06:09:18","severity":"SUCCESS","module":"kycuser","code":"216","message":"Successfully Created New kyc user : sammijj","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-07-11 06:10:20","severity":"SUCCESS","module":"kycuser","code":"217","message":"Successfully Modified password : sammijj","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-07-11 06:10:40","severity":"SUCCESS","module":"kycuser","code":"218","message":"Successfully Deleted kyc Profile: sammijj","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-07-11 06:12:01","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-07-11 06:12:55","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-07-11 06:13:08","severity":"SUCCESS","module":"kycuser","code":"219","message":"Successfully added partner to kyc Profile: tunde","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-07-11 06:14:38","severity":"SUCCESS","module":"logout","code":"240","message":"Successfully Logged Out  : sammi","user":"sammi","priviledge":"sadmin"}
+{"date":"2019-07-11 06:14:47","severity":"ERROR","module":"login","code":"001","message":"invalid login credential","user":"","priviledge":""}
+{"date":"2019-07-11 06:14:53","severity":"SUCCESS","module":"login","code":"200","message":"Successfully logged in","user":"sammi","priviledge":"sadmin"}

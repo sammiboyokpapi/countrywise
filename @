@@ -1,0 +1,14 @@
+			<div class="clearfix"><h3>Change Password</h3></div>
+																		<div class="form-group form-group-default required m-t-25">
+																			<label>New Password</label>
+																			<input type="text" class="form-control" placeholder="New Password" name="newpassword" required="">
+																		</div>
+
+																		<div class="form-group form-group-default required">
+																			<label>Confirm New Password</label>
+																			<input type="text" class="form-control" placeholder="Retype New Password" name="newpassword2" required="">
+																		</div>
+																			<div class="clearfix">
+																			
+																		<button class="btn btn-primary" type="submit" name="password">Create a new account</button>
+																		</div>
